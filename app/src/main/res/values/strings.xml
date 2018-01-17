@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stock Ticker</string>
+
+    <!--Text Headings (Meta Data)-->
+    <string name="Information">1. Information :</string>
+    <string name="Symbol">2. Symbol :</string>
+    <string name="LastRefreshed">3: Last Refreshed :</string>
+    <string name="Interval">4. Interval :</string>
+    <string name="OutputSize">5. Output Size :</string>
+    <string name="TimeZone">6. Time Zone :</string>
+
+
+
+
+</resources>
